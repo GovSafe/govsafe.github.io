@@ -1,0 +1,53 @@
+a:visited {
+  color: #0071bc;
+}
+.banner a, .banner a:visited, .banner, .usa-footer-secondary_section, .usa-footer-secondary_section a, .usa-footer-secondary_section a:visited {
+  color: #fff;
+}
+.banner img {
+  max-width: 30px;
+}
+a.usa-footer-primary-link, .usa-footer .usa-footer-primary-link, a.usa-footer-primary-link:visited {
+  color: #0071bc;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+.banner {
+  background: #e31c3d;
+  padding: 1px 10px;
+}
+.hero {
+  background: #0071bc url('../img/hero.png') center bottom;
+  color: #fff;
+  padding-bottom: 100px;
+  padding-top: 50px;
+}
+.hero p {
+  font-size: 30px;
+  font-weight: 200;
+}
+.actions {
+  text-align: center;
+}
+.usa-footer-primary-section {
+  background: #dce4ef;
+}
+.usa-footer-secondary_section {
+  background: #0071bc;
+}
+.icons i.fa {
+  color: #0071bc;
+  font-size: 100px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.icons h3 {
+  color: #0071bc;
+}
