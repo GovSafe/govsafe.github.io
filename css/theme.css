@@ -43,11 +43,8 @@ a.usa-footer-primary-link, .usa-footer .usa-footer-primary-link, a.usa-footer-pr
   background: #0071bc;
 }
 .icons i.fa {
-  color: #0071bc;
   font-size: 100px;
   margin-left: 10px;
   margin-right: 10px;
-}
-.icons h3 {
-  color: #0071bc;
+  margin-top: 20px;
 }
